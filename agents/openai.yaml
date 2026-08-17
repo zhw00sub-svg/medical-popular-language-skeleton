@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学科普人话骨架"
+  short_description: "将医学内容改写成完整、自然、边界清楚、可供普通读者顺读理解的中文。"
+  default_prompt: "使用 $medical-popular-language-skeleton 将这段已核验的医学内容改写为自然、完整、边界清楚的中文。"

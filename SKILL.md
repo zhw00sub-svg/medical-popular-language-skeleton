@@ -9,6 +9,16 @@ Use this skill to make Chinese medical content understandable without making it 
 
 Use it as the preferred language layer whenever the task substantially involves Chinese prose for science communication, patient explanation, a public lecture, or an academic lecture script. Pair it with an evidence, guideline, or clinical-review skill when facts are not yet locked; those skills decide what is medically supportable, while this skill decides how the reader can genuinely understand it.
 
+## Confirmed Prose Preference — 2026-10-22
+
+The author prefers the supplied Gemini revision's fuller explanation, natural medical collocations, and substantive progression. Apply these qualities to the intended audience; do not copy its claims or transfer academic language wholesale into public prose.
+
+- Complete the explanation before shortening it. Retain necessary subjects, premises, comparators, and relationships; delete repetition rather than the reasoning a reader needs.
+- Develop a paragraph around its actual question. Use a transition only when the content supports the relationship. Do not make every paragraph end with advice, a summary, or a symmetrical caveat.
+- Avoid vague noun chains and awkward compressed labels. Name what happens, to whom, and under which conditions. Keep established medical terms and functional complex sentences.
+- Expand only what makes the explanation clearer. Rephrasing the same finding twice is not development; do not invent mechanisms, examples, or causality to make the prose flow.
+- Review naturalness separately from factual accuracy. Read continuously in the intended language, repair missing links and repetitive endings, then verify evidence strength and safety limits again. Word lists and sentence-length targets cannot certify prose quality.
+
 ## Preserve the Medical Contract
 
 Before rewriting, extract or confirm:
@@ -56,9 +66,9 @@ The rewrite is not required to be longer. Expand only the missing relationship; 
 ## Tone and Sentence Rules
 
 - Write as a calm, informed physician or medical writer speaking to an intelligent adult; do not imitate social-media speech, a classroom outline, or an academic abstract.
-- Put one main relationship in each sentence. Let sentence length vary, but do not use fragments as a substitute for clarity.
+- Keep the main relationship easy to follow, while retaining connected conditions and explanations in a complete sentence. Do not impose a one-clause rule or an average sentence-length target.
 - Introduce a technical term when it adds precision. Explain it once in ordinary language, then use it consistently.
-- Explain a negation positively: after saying what a finding does not prove, state what it does support.
+- State the supported finding and its necessary limit once. Do not add a positive restatement after a limitation if it merely repeats the preceding result.
 - Use metaphors only to illuminate a real relationship. Do not let a metaphor become the mechanism or treatment recommendation.
 - Treat fear with precision: neither dramatize possible harm nor use warmth to erase red flags.
 
